@@ -40,7 +40,7 @@ function init() {
   const turnDirections = Object.keys(sprites)
   const pandas = {}
   // Change this to set number of Pandas
-  const pandaNumber = 100
+  const pandaNumber = 20
   const pandaImpact = 80
   const frameSpeed = 140
   let pandaCount = 0
