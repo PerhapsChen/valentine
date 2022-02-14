@@ -87,10 +87,10 @@ body {
   background-image: url(img/tetris.png);
 }
 .card:nth-child(3):before {
-  background-image: url(img/cube.png);
+  background-image: url(img/blocks.png);
 }
 .card:nth-child(4):before {
-  background-image: url(img/blocks.png);
+  background-image: url(img/cube.png);
 }
 
 .content {
